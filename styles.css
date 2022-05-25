@@ -14,8 +14,26 @@ h1 {
 }
 
 p {
-    text-align: center;
-
+    font-size: 15px;
+    
 
 }
 
+nav{
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.left  {
+    text-align: left;
+
+}
