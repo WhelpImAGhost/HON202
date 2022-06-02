@@ -1,8 +1,8 @@
 
 body {
 
-    
     background-color: #d0dff7;
+    min-height: 100%;
     font-family: Arial, Helvetica, sans-serif;
     color: #111c12;
 }
@@ -94,7 +94,7 @@ nav{
     margin-right: 20px;
     display: block;
     background-color: #7dffd4;
-    border: 1px solid black;
+    border: 1px solid  black;
 }
 
 .prev {
