@@ -79,7 +79,7 @@ nav{
 
 
 .columnsplit2 {
-
+    text-align: left;
     column-count: 2;
     column-fill: balance;
     column-rule: 6px double rgb(156, 9, 41);
@@ -98,4 +98,14 @@ nav{
     float: left;
     margin-top: 50px;
     margin-left: 20px;
+}
+
+img{
+
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
 }
